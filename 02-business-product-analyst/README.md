@@ -24,3 +24,7 @@ NovaMarket'e ait verileri ve elde edilen analiz sonuçlarını değerlendirerek 
 * KPI Belirleme
 * İş Odaklı Problem Çözme
 * Teknik Dokümantasyon
+
+https://fatmanurerdem70.atlassian.net/browse/NOV-1 
+https://fatmanurerdem70.atlassian.net/browse/NOV-2
+https://fatmanurerdem70.atlassian.net/wiki/x/AgB
